@@ -42,5 +42,7 @@ Passo 3: Copiare il file chinook.db nella cartella di output
 
 In entrambi i casi si usa questaa tabella:
 
-image
+![image](https://github.com/fatihisla/LINQDb/assets/116791165/bff9cacc-a87f-48e4-ac66-dd38eeb8305e)
+
+Esercizio svolto da Fatih Islamovski Tramite utilizzo di informazioni dalle lezioni di M.Maurizio e M.Sartini
 
