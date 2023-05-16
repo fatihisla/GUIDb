@@ -40,4 +40,7 @@ Passo 3: Copiare il file chinook.db nella cartella di output
 * All'interno del progetto WPF, creare una nuova cartella denominata "raw" nella cartella radice del progetto.
 * Copiare il file chinook.db nella cartella "raw".
 
+In entrambi i casi si usa questaa tabella:
+
+image
 
